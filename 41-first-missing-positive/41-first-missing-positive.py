@@ -8,4 +8,3 @@ class Solution:
             elif num > 0:
                 return i
         return i
-        
